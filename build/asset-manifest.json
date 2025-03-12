@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53f9f6d2.css",
+    "main.js": "/static/js/main.baa9d7ee.js",
+    "static/media/contact_image.png": "/static/media/contact_image.20b30fe24d6647e07d16.png",
+    "static/media/header_img.png": "/static/media/header_img.70253f4e7d8c989e6e15.png",
+    "static/media/about_image.png": "/static/media/about_image.a8d35114424cad5f0f17.png",
+    "static/media/appointment_img.png": "/static/media/appointment_img.656db3af70f5c3a64ac3.png",
+    "static/media/doc13.png": "/static/media/doc13.6bc6e4c24a6be7da9882.png",
+    "static/media/doc8.png": "/static/media/doc8.62428b3f77ac57c2ef40.png",
+    "static/media/doc9.png": "/static/media/doc9.05b3af50cdaf1738d4ac.png",
+    "static/media/doc11.png": "/static/media/doc11.56657de5d45246fc7114.png",
+    "static/media/doc4.png": "/static/media/doc4.0e7d843acc5ae5bdde5c.png",
+    "static/media/doc7.png": "/static/media/doc7.4b0e18f3f6d0a08f5c9a.png",
+    "static/media/doc15.png": "/static/media/doc15.436ba9da12c569e2866c.png",
+    "static/media/doc5.png": "/static/media/doc5.d79edd79f82ac1462dca.png",
+    "static/media/doc12.png": "/static/media/doc12.6cfa77fcfdf87bfde881.png",
+    "static/media/doc2.png": "/static/media/doc2.d612cdc7482903476b8f.png",
+    "static/media/doc3.png": "/static/media/doc3.f1b1cb47e8103c6639f9.png",
+    "static/media/doc6.png": "/static/media/doc6.ae971d32474d2aefac8f.png",
+    "static/media/doc14.png": "/static/media/doc14.d79887ac3d9280f39558.png",
+    "static/media/doc1.png": "/static/media/doc1.f0f093227eba464db1a1.png",
+    "static/media/doc10.png": "/static/media/doc10.b1ebd9940e5b7ff32b48.png",
+    "static/media/group_profiles.png": "/static/media/group_profiles.72337136b27b09216a23.png",
+    "static/media/Neurologist.svg": "/static/media/Neurologist.2a6cf19c676687d7c64fe99b2eb4652c.svg",
+    "static/media/Pediatricians.svg": "/static/media/Pediatricians.77d831fbba3f98bd74a1054d90bf308e.svg",
+    "static/media/Gynecologist.svg": "/static/media/Gynecologist.7a09bf4b68eec87cd218cff1ef9a3788.svg",
+    "static/media/Gastroenterologist.svg": "/static/media/Gastroenterologist.dc56dd1c037ec5e035acde49c66c7725.svg",
+    "static/media/General_physician.svg": "/static/media/General_physician.9de6cf60c760641ea020344fc27e7ec1.svg",
+    "static/media/Dermatologist.svg": "/static/media/Dermatologist.5325511692770af096936955001c7f01.svg",
+    "index.html": "/index.html",
+    "main.53f9f6d2.css.map": "/static/css/main.53f9f6d2.css.map",
+    "main.baa9d7ee.js.map": "/static/js/main.baa9d7ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f9f6d2.css",
+    "static/js/main.baa9d7ee.js"
+  ]
+}
